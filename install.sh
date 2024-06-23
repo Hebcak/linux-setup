@@ -6,7 +6,6 @@ MY_PATH=`( cd "$MY_PATH" && pwd )`
 
 APPCONFIG_PATH=$MY_PATH/appconfig
 
-
 cd $MY_PATH
 #fetch updates for the setup
 git pull
