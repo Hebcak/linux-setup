@@ -1,3 +1,0 @@
-[submodule "submodules/ranger"]
-	path = submodules/ranger
-	url = git@github.com:ranger/ranger.git
